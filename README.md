@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> An end-to-end **Exploratory Data Analysis (EDA)** project built in Google Colab that tracks daily personal habits — sleep, exercise, journaling, reading, screen time and spending — and identifies which ones have the strongest statistical relationship with daily mood.
+> An end-to-end **Exploratory Data Analysis (EDA)** project built in Google Colab that tracks daily personal habits (sleep, exercise, journaling, reading, screen time and spending) and identifies which ones have the strongest statistical relationship with daily mood.
 
 ---
 
